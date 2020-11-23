@@ -1,0 +1,3 @@
+[submodule "qtstatusbar"]
+	path = qtstatusbar
+	url = https://github.com/jpnurmi/qtstatusbar.git
